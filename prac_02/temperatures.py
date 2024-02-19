@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 - Practical
-Refactoring temperatures practical_01
+Refactoring temperatures from practical_01
 """
 
 MENU = """C - Convert Celsius to Fahrenheit
