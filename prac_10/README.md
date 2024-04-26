@@ -13,3 +13,5 @@
 - Additional module or exercise about Kivy.
 
 ## Include proper Markdown links to two (2) PRs that show you doing good code reviews for any of the past pracs.
+- https://github.com/KuiMengcen/CP1404_practicals/pull/8
+- https://github.com/KuiMengcen/CP1404_practicals/pull/12
