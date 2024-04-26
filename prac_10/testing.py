@@ -1,5 +1,9 @@
 """
+<<<<<<< HEAD
 CP1404/CP5632 Practical
+=======
+CP1404/CP5632 Practical - Suggested Solution
+>>>>>>> 5a8315f (completed the testing.py file)
 Testing demo using assert and doctest
 """
 
